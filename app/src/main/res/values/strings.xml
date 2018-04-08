@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TechTestApp</string>
+    <string name="enter_place_name">Enter place name</string>
+    <string name="search">Search</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="tab_label_map">Map</string>
+    <string name="tab_label_list">List</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main1">Main1Activity</string>
+
+    <string name="google_maps_api_key">AIzaSyD-bTwdazmvBdWkOFNSn3o8jL5Ew4qjEC8</string>
+    <string name="around">Around me</string>
+</resources>
